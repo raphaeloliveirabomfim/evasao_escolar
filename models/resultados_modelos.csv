@@ -1,0 +1,4 @@
+Modelo,Threshold,Acurácia,Precisão,Recall,F1-Score,F2-Score,AUC-ROC
+Logistic Regression (baseline),0.385,0.8083,0.5897,0.9068,0.7146,0.8187,0.9302
+Random Forest,0.314,0.8763,0.6986,0.937,0.8004,0.8772,0.9683
+XGBoost,0.382,0.8703,0.6826,0.9534,0.7956,0.8833,0.9702
